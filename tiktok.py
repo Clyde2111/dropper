@@ -11,11 +11,6 @@ print("""
 ##        #######   ######  ##    ## ######## ##     ##        ##    #### ##    ##    ##     #######  ##    ##
 
 
-  Discord ┃ https://discord.gg/desk
-  
-  Youtube ┃ https://www.youtube.com/c/DeskCommunity     
-  
-  
   """)
   
 id = input("Introduza o id do video")
