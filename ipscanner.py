@@ -8,10 +8,6 @@ _ ___      ____ ____ ____ _  _ _  _ ____ ____
 | |        ___] |___ |  | | \| | \| |___ |  \ 
 
 
-
-  Discord ┃ https://discord.gg/desk
-  
-  Youtube ┃ https://www.youtube.com/c/DeskCommunity     
   
   
   """)
