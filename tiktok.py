@@ -20,7 +20,7 @@ print("""
   
 id = input("Introduza o id do video")
 
-sdoakd = "Denúncia enviada com sucesso by Desk Client"
+sdoakd = "Denúncia enviada com sucesso by Dropper v2"
 
 conn = http.client.HTTPSConnection("www.tiktok.com")
 payload = json.dumps({
@@ -47,4 +47,4 @@ while True:
     conn.request("POST", "/node/report/reasons_put?aid=1988&app_name=tiktok_web&device_platform=web_pc&device_id=6990406517787018758&region=DK&priority_region=&os=windows&referer=&root_referer=&cookie_enabled=true&screen_width=1366&screen_height=768&browser_language=da&browser_platform=Win32&browser_name=Mozilla&browser_version=5.0+(Windows)&browser_online=true&app_language=en&timezone_name=Europe%252FCopenhagen", payload, headers)
     res = conn.getresponse()
     data = res.read()
-    print("Denúncia enviada com sucesso by Desk Client")
+    print("Denúncia enviada com sucesso by Dropper V2")
