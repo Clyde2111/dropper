@@ -11,7 +11,7 @@ Dropper V2
   
   
   """)
-  print(Fore.RED + 'Developed by barbosa and mhzin')
+  print(Fore.RED + 'Developed by Arakemi')
   print('')
 
 painel()
