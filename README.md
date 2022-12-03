@@ -1,1 +1,33 @@
+CPF: 81528655087
+Nome completo: MARIANE DA COSTA JUNG 
+Data de nascimento: 07/04/1982
+Endereço: RUA  VENEZUELA, 288 - P 1 - CIDADE NOVA, IVOTI-RS - 93900000
 
+Número do cartão: 5128147166231477
+Validade: 09/25
+CVV: 820
+Senha: 1920
+
+-	-	-	-	-	-	-	-	-	-
+
+CPF: 71564373053
+Nome completo: DEBORA LETICIA HILLEBRAND BUENO KONRAD
+Data de nascimento: 12/05/1974
+Endereço: RUA PERU, 380 - CIDADE NOVA, IVOTI-RS - 93900000
+
+Número do cartão: 5104263704712528
+Validade: 12/25
+CVV: 606
+Senha: 1447
+
+-	-	-	-	-	-	-	-	-	-	
+
+CPF: 68345780059
+Nome completo: CANDIDA CRISTINA KLEIN
+Data de nascimento: 18/08/1978
+Endereço: AVENIDA MATHIAS STEFFENS, 4053 - CENTRO, SAO JOSE DO HORTENCIO - 95755-000
+
+Número do cartão: 4551100354431630
+Validade: 09/27
+CVV: 157
+Senha: 1978
